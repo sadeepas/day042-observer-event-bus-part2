@@ -13,7 +13,7 @@
 ## ?? Repository Information
 - **Curriculum Schedule**: Day 42 of 365 (Evening Release)
 - **Primary Domain**: .NET Core & Clean Architecture
-- **Language / Tech Stack**: C#
+- **Language / Tech Stack**: C# 
 - **Complexity Level**: Advanced
 
 ---
