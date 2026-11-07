@@ -8,9 +8,9 @@
 
 > **Day 42 (Evening): Event-Driven Architecture & Delegates implemented in C#. Production-grade examples, clean documentation, and projects.**
 
----
+---   
 
-## ?? Repository Information
+## ??  Repository Information
 - **Curriculum Schedule**: Day 42 of 365 (Evening Release)
 - **Primary Domain**: .NET Core & Clean Architecture
 - **Language / Tech Stack**: C# 
